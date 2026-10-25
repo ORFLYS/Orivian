@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=iq.orvex.orivian" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Play-تحميل_التطبيق-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Download on Google Play" height="40" />
+    <img src="screenshots/google_play_ar.png" alt="احصل عليه من Google Play" height="75" />
   </a>
 </p>
 
@@ -26,11 +26,20 @@
 
 ## 📥 التحميل والتثبيت (Download & Install)
 
-التطبيق متوفر الآن رسمياً على متجر **Google Play** لجميع أجهزة أندرويد:
+التطبيق متوفر الآن رسمياً للتحميل المباشر على متجر **Google Play** لجميع أجهزة أندرويد:
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=iq.orvex.orivian" target="_blank">
+    <img src="screenshots/google_play_ar.png" alt="احصل عليه من Google Play" height="80" />
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=iq.orvex.orivian" target="_blank">
+    <img src="screenshots/google_play_en.png" alt="GET IT ON Google Play" height="80" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=iq.orvex.orivian">
-    <b>👉 اضغط هنا لتحميل تطبيق Orivian من Google Play 👈</b>
+    <b>👉 اضغط هنا للانتقال إلى صفحة التطبيق على Google Play 👈</b>
   </a>
 </p>
 

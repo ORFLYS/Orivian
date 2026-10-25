@@ -1,0 +1,8 @@
+# Ignore all source code and build files (Closed Source Showcase)
+/*
+
+# Allow showcase files only
+!/README.md
+!/screenshots/
+!/screenshots/**
+!/.gitignore
